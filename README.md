@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LittleTimmy52
-- 👀 I’m interested in nothing really
-- 🌱 I’m currently learning c# and soon ill try out html
+- 👀 I’m interested in making my game not 100% pure garbage, Space Astronomy2, and Rust.
+- 🌱 I’m currently learning c#, Lua, and soon ill try out html
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me discord. If you didn't join mine it's https://discord.gg/xmhVVZp8te
 
